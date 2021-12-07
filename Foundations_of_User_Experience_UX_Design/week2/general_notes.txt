@@ -1,0 +1,50 @@
+Talk like a UX designer
+
+  - User
+    Any person who usses a product
+  - End-user
+    Th specific audience a UX designer creates omerhing for
+
+  - User experience: How a person, the user, feels about intereacting with, or
+  experiencing, a product
+
+    Evaluate UX:
+      - Is the product easy to use?
+      - Is the product equitable?
+      - Does the product delight the user?
+      - Does it solve the user's problem?
+
+  User-centered design framework
+    - Understand
+    - Specify
+    - Design
+    - Evaluate
+
+Think like a UX designer
+  Key frameworkss in UX design
+    Five elementos of UX design
+      Strategy
+      Scope
+      Structure
+      Skeleton
+      Surface
+    Design thinking
+      Empathize
+      Define
+      Ideate
+      Prototype
+      Test
+Consider the Next Billion Users
+  Design for the Next Billion Users
+    Issues
+      - Cost
+      - Connectivity
+      - Digital literacy
+      - Literacy
+Design across platforms
+  Get to know platforms
+  Design for different platforms
+Design for accessibility
+  Universal design, inclusive design, and equity-focused design
+  The importance of accessibility
+    
